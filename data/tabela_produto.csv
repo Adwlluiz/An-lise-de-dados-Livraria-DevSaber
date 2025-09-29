@@ -1,0 +1,851 @@
+produto_id,nome,tipo,preco,estoque,descricao,detalhes_livro,detalhes_papelaria,data_cadastro,ativo
+8,Post-it Amarelo,Papelaria,15,400,Bloco de notas adesivas para lembretes.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Notas Adesivas"",
+    ""cor"": ""Amarelo"",
+    ""marca"": ""3M"",
+    ""material"": ""Papel""
+  }
+}",2024-05-20 10:35:00.000000 UTC,true
+26,Marcador de Texto,Papelaria,7,500,Marcador com ponta chanfrada.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Marcadores"",
+    ""cor"": ""Amarelo"",
+    ""marca"": ""Stabilo"",
+    ""material"": ""Plástico""
+  }
+}",2024-05-20 12:05:00.000000 UTC,true
+2,Caneta Esferográfica Bic,Papelaria,2.5,500,Caneta clássica de uso diário.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Canetas"",
+    ""cor"": ""Azul"",
+    ""marca"": ""Bic"",
+    ""material"": ""Plástico""
+  }
+}",2024-05-20 10:05:00.000000 UTC,true
+14,Tesoura Escolar,Papelaria,8,250,"Tesoura com ponta arredondada, segura para crianças.","{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Materiais de Escritório"",
+    ""cor"": ""Azul"",
+    ""marca"": ""Maped"",
+    ""material"": ""Plástico e Aço""
+  }
+}",2024-05-20 11:05:00.000000 UTC,true
+36,Pasta com Elástico,Papelaria,9.5,300,Pasta para guardar documentos.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Pastas"",
+    ""cor"": ""Azul"",
+    ""marca"": ""Dello"",
+    ""material"": ""Plástico""
+  }
+}",2024-05-20 12:55:00.000000 UTC,true
+10,Tinta Acrílica,Papelaria,18,80,Tubo de tinta acrílica para tela.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Tintas"",
+    ""cor"": ""Branca"",
+    ""marca"": ""Corfix"",
+    ""material"": ""Acrílico""
+  }
+}",2024-05-20 10:45:00.000000 UTC,true
+18,Bloco de Desenho A4,Papelaria,28,220,Bloco com 50 folhas para desenho.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Blocos e Papéis"",
+    ""cor"": ""Branca"",
+    ""marca"": ""Canson"",
+    ""material"": ""Papel""
+  }
+}",2024-05-20 11:25:00.000000 UTC,true
+42,Cola Bastão,Papelaria,4,550,Cola em bastão para trabalhos escolares.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Colas"",
+    ""cor"": ""Branca"",
+    ""marca"": ""Pritt"",
+    ""material"": ""PVA""
+  }
+}",2024-05-21 00:25:00.000000 UTC,true
+48,Borracha Branca,Papelaria,2,900,Borracha macia para apagar lápis.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Materiais de Escritório"",
+    ""cor"": ""Branca"",
+    ""marca"": ""Faber-Castell"",
+    ""material"": ""Borracha""
+  }
+}",2024-05-21 00:55:00.000000 UTC,true
+30,Corretivo Líquido,Papelaria,6.5,450,Corretivo branco de secagem rápida.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Corretivos"",
+    ""cor"": ""Branco"",
+    ""marca"": ""Paper Mate"",
+    ""material"": ""Líquido""
+  }
+}",2024-05-20 12:25:00.000000 UTC,true
+32,Envelope Branco A4,Papelaria,0.8,1000,Envelope para correspondência.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Envelopes"",
+    ""cor"": ""Branco"",
+    ""marca"": ""Dello"",
+    ""material"": ""Papel""
+  }
+}",2024-05-20 12:35:00.000000 UTC,true
+24,Grampeador,Papelaria,25,110,Grampeador de mesa para escritório.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Materiais de Escritório"",
+    ""cor"": ""Cinza"",
+    ""marca"": ""Jocar Office"",
+    ""material"": ""Plástico e Metal""
+  }
+}",2024-05-20 11:55:00.000000 UTC,true
+46,Compasso Escolar,Papelaria,12,180,Instrumento para desenho de círculos.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Geometria"",
+    ""cor"": ""Cinza"",
+    ""marca"": ""Tris"",
+    ""material"": ""Metal""
+  }
+}",2024-05-21 00:45:00.000000 UTC,true
+22,Clips de Papel,Papelaria,8.5,800,Caixa com 100 clips para organizar documentos.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Materiais de Escritório"",
+    ""cor"": ""Metálico"",
+    ""marca"": ""ACCO"",
+    ""material"": ""Metal""
+  }
+}",2024-05-20 11:45:00.000000 UTC,true
+34,Grampos de Grampeador,Papelaria,4,900,Caixa com 1000 grampos.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Materiais de Escritório"",
+    ""cor"": ""Metálico"",
+    ""marca"": ""Jocar Office"",
+    ""material"": ""Metal""
+  }
+}",2024-05-20 12:45:00.000000 UTC,true
+6,Lápis de Cor Faber-Castell,Papelaria,59.9,150,Caixa com 24 cores vibrantes.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Lápis de Cor"",
+    ""cor"": ""Multicolorido"",
+    ""marca"": ""Faber-Castell"",
+    ""material"": ""Madeira""
+  }
+}",2024-05-20 10:25:00.000000 UTC,true
+40,Caixa de Lápis de Cera,Papelaria,15,280,Caixa com 12 lápis de cera.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Desenho"",
+    ""cor"": ""Multicolorido"",
+    ""marca"": ""Crayola"",
+    ""material"": ""Cera""
+  }
+}",2024-05-21 00:15:00.000000 UTC,true
+50,Kit Canetas Coloridas,Papelaria,35,180,Estojo com 6 canetas em cores variadas.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Canetas"",
+    ""cor"": ""Multicolorido"",
+    ""marca"": ""Stabilo"",
+    ""material"": ""Plástico""
+  }
+}",2024-05-21 01:05:00.000000 UTC,true
+12,Mochila Escolar,Papelaria,110,60,Mochila com compartimentos para notebook.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Mochilas"",
+    ""cor"": ""Preta"",
+    ""marca"": ""Kipling"",
+    ""material"": ""Poliéster""
+  }
+}",2024-05-20 10:55:00.000000 UTC,true
+16,Estojo Simples,Papelaria,12,350,Estojo de tecido com zíper.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Estojos"",
+    ""cor"": ""Rosa"",
+    ""marca"": ""Foroni"",
+    ""material"": ""Tecido""
+  }
+}",2024-05-20 11:15:00.000000 UTC,true
+28,Fita Adesiva Transparente,Papelaria,4.5,700,Rolo de fita adesiva de uso geral.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Fitas"",
+    ""cor"": ""Transparente"",
+    ""marca"": ""Scotch"",
+    ""material"": ""Plástico""
+  }
+}",2024-05-20 12:15:00.000000 UTC,true
+44,Régua 30cm,Papelaria,3.5,750,Régua plástica transparente.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Materiais de Escritório"",
+    ""cor"": ""Transparente"",
+    ""marca"": ""Acrimet"",
+    ""material"": ""Plástico""
+  }
+}",2024-05-21 00:35:00.000000 UTC,true
+20,Apontador com Depósito,Papelaria,5,600,Apontador prático para lápis.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Materiais de Escritório"",
+    ""cor"": ""Verde"",
+    ""marca"": ""Faber-Castell"",
+    ""material"": ""Plástico""
+  }
+}",2024-05-20 11:35:00.000000 UTC,true
+38,Caneta Marca-texto,Papelaria,5,400,Caneta para destacar textos importantes.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Marcadores"",
+    ""cor"": ""Verde"",
+    ""marca"": ""Faber-Castell"",
+    ""material"": ""Plástico""
+  }
+}",2024-05-21 00:05:00.000000 UTC,true
+4,Caderno Universitário,Papelaria,25,300,Caderno com capa dura e 10 matérias.,"{
+  ""detalhes_livro"": {
+    ""autor"": null,
+    ""editora"": null,
+    ""ano_publicacao"": null,
+    ""isbn"": null,
+    ""genero"": null,
+    ""numero_paginas"": null
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": ""Cadernos"",
+    ""cor"": ""Vermelho"",
+    ""marca"": ""Tilibra"",
+    ""material"": ""Papel e Capa Dura""
+  }
+}",2024-05-20 10:15:00.000000 UTC,true
+19,O Pequeno Príncipe,Livro,29.9,400,Uma fábula atemporal sobre o ser humano.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Antoine de Saint-Exupéry"",
+    ""editora"": ""Agir"",
+    ""ano_publicacao"": ""1943"",
+    ""isbn"": ""978-85-220-0005-0"",
+    ""genero"": ""Infantojuvenil"",
+    ""numero_paginas"": ""96""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 11:30:00.000000 UTC,true
+49,Duna,Livro,79,130,A épica saga de ficção científica.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Frank Herbert"",
+    ""editora"": ""Aleph"",
+    ""ano_publicacao"": ""1965"",
+    ""isbn"": ""978-85-765-7489-0"",
+    ""genero"": ""Ficção Científica"",
+    ""numero_paginas"": ""688""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-21 01:00:00.000000 UTC,true
+3,1984,Livro,45.9,85,Distopia que nos faz refletir sobre a vigilância e controle.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""George Orwell"",
+    ""editora"": ""Companhia das Letras"",
+    ""ano_publicacao"": ""1949"",
+    ""isbn"": ""978-85-359-1484-9"",
+    ""genero"": ""Ficção Científica"",
+    ""numero_paginas"": ""416""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 10:10:00.000000 UTC,true
+29,Sapiens,Livro,79.9,150,Uma breve história da humanidade.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Yuval Noah Harari"",
+    ""editora"": ""Companhia das Letras"",
+    ""ano_publicacao"": ""2011"",
+    ""isbn"": ""978-85-359-2516-6"",
+    ""genero"": ""Não-Ficção"",
+    ""numero_paginas"": ""464""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 12:20:00.000000 UTC,true
+35,Capitães da Areia,Livro,30,150,A vida de um grupo de meninos de rua na Bahia.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Jorge Amado"",
+    ""editora"": ""Companhia das Letras"",
+    ""ano_publicacao"": ""1937"",
+    ""isbn"": ""978-85-359-0099-2"",
+    ""genero"": ""Romance"",
+    ""numero_paginas"": ""256""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 12:50:00.000000 UTC,true
+39,A Revolução dos Bichos,Livro,35,160,Uma sátira sobre poder e corrupção.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""George Orwell"",
+    ""editora"": ""Companhia das Letras"",
+    ""ano_publicacao"": ""1945"",
+    ""isbn"": ""978-85-359-0937-7"",
+    ""genero"": ""Fábula Política"",
+    ""numero_paginas"": ""152""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-21 00:10:00.000000 UTC,true
+17,Crime e Castigo,Livro,60,90,Clássico da literatura russa que explora a moralidade.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Fiódor Dostoiévski"",
+    ""editora"": ""Editora 34"",
+    ""ano_publicacao"": ""1866"",
+    ""isbn"": ""978-85-732-6136-1"",
+    ""genero"": ""Filosofia"",
+    ""numero_paginas"": ""576""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 11:20:00.000000 UTC,true
+21,O Código Da Vinci,Livro,49.9,170,Um thriller que mistura história e mistério.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Dan Brown"",
+    ""editora"": ""Editora Arqueiro"",
+    ""ano_publicacao"": ""2003"",
+    ""isbn"": ""978-85-994-3004-5"",
+    ""genero"": ""Suspense"",
+    ""numero_paginas"": ""432""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 11:40:00.000000 UTC,true
+23,Extraordinário,Livro,38,190,A história de um menino que nasceu com uma deformidade facial.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""R. J. Palacio"",
+    ""editora"": ""Editora Intrínseca"",
+    ""ano_publicacao"": ""2012"",
+    ""isbn"": ""978-85-805-7288-0"",
+    ""genero"": ""Ficção"",
+    ""numero_paginas"": ""320""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 11:50:00.000000 UTC,true
+25,A Culpa é das Estrelas,Livro,32.5,240,Um romance emocionante sobre dois adolescentes com câncer.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""John Green"",
+    ""editora"": ""Editora Intrínseca"",
+    ""ano_publicacao"": ""2012"",
+    ""isbn"": ""978-85-805-7346-7"",
+    ""genero"": ""Romance"",
+    ""numero_paginas"": ""288""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 12:00:00.000000 UTC,true
+27,A Menina que Roubava Livros,Livro,45,210,A história de uma garota na Alemanha Nazista.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Markus Zusak"",
+    ""editora"": ""Editora Intrínseca"",
+    ""ano_publicacao"": ""2005"",
+    ""isbn"": ""978-85-980-7517-7"",
+    ""genero"": ""Drama"",
+    ""numero_paginas"": ""480""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 12:10:00.000000 UTC,true
+45,Frankenstein,Livro,48,80,O clássico de terror gótico.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Mary Shelley"",
+    ""editora"": ""Editora Martin Claret"",
+    ""ano_publicacao"": ""1818"",
+    ""isbn"": ""978-85-723-2200-0"",
+    ""genero"": ""Terror"",
+    ""numero_paginas"": ""256""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-21 00:40:00.000000 UTC,true
+47,O Morro dos Ventos Uivantes,Livro,55,100,Um romance gótico sobre amor e vingança.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Emily Brontë"",
+    ""editora"": ""Editora Martin Claret"",
+    ""ano_publicacao"": ""1847"",
+    ""isbn"": ""978-85-723-2600-0"",
+    ""genero"": ""Romance"",
+    ""numero_paginas"": ""400""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-21 00:50:00.000000 UTC,true
+31,Orgulho e Preconceito,Livro,50,110,Um romance clássico sobre a sociedade inglesa.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Jane Austen"",
+    ""editora"": ""Editora Penguin-Companhia"",
+    ""ano_publicacao"": ""1813"",
+    ""isbn"": ""978-85-635-6019-2"",
+    ""genero"": ""Romance"",
+    ""numero_paginas"": ""384""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 12:30:00.000000 UTC,true
+1,O Silêncio dos Inocentes,Livro,55.5,120,Um suspense psicológico que marcou época.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Thomas Harris"",
+    ""editora"": ""Editora Record"",
+    ""ano_publicacao"": ""1988"",
+    ""isbn"": ""978-85-010-3888-0"",
+    ""genero"": ""Suspense"",
+    ""numero_paginas"": ""352""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 10:00:00.000000 UTC,true
+11,Cem Anos de Solidão,Livro,65,150,A história da família Buendía.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Gabriel García Márquez"",
+    ""editora"": ""Editora Record"",
+    ""ano_publicacao"": ""1967"",
+    ""isbn"": ""978-85-010-4100-8"",
+    ""genero"": ""Realismo Mágico"",
+    ""numero_paginas"": ""464""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 10:50:00.000000 UTC,true
+33,O Estrangeiro,Livro,39.9,80,Clássico da filosofia existencialista.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Albert Camus"",
+    ""editora"": ""Editora Record"",
+    ""ano_publicacao"": ""1942"",
+    ""isbn"": ""978-85-010-3184-3"",
+    ""genero"": ""Filosofia"",
+    ""numero_paginas"": ""160""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 12:40:00.000000 UTC,true
+43,O Diário de Anne Frank,Livro,40,180,O relato comovente de uma adolescente na Segunda Guerra Mundial.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Anne Frank"",
+    ""editora"": ""Editora Record"",
+    ""ano_publicacao"": ""1947"",
+    ""isbn"": ""978-85-010-4447-4"",
+    ""genero"": ""Biografia"",
+    ""numero_paginas"": ""304""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-21 00:30:00.000000 UTC,true
+13,Harry Potter e a Pedra Filosofal,Livro,59.9,300,O primeiro livro da saga Harry Potter.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""J.K. Rowling"",
+    ""editora"": ""Editora Rocco"",
+    ""ano_publicacao"": ""1997"",
+    ""isbn"": ""978-85-325-1101-0"",
+    ""genero"": ""Fantasia"",
+    ""numero_paginas"": ""223""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 11:00:00.000000 UTC,true
+9,O Alquimista,Livro,35,300,A jornada de um pastor em busca de um tesouro.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Paulo Coelho"",
+    ""editora"": ""Editora Sextante"",
+    ""ano_publicacao"": ""1988"",
+    ""isbn"": ""978-85-998-3803-5"",
+    ""genero"": ""Ficção"",
+    ""numero_paginas"": ""208""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 10:40:00.000000 UTC,true
+5,Dom Casmurro,Livro,39.9,200,Um clássico da literatura brasileira.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Machado de Assis"",
+    ""editora"": ""Editora Ática"",
+    ""ano_publicacao"": ""1899"",
+    ""isbn"": ""978-85-080-6000-8"",
+    ""genero"": ""Romance"",
+    ""numero_paginas"": ""224""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 10:20:00.000000 UTC,true
+7,A Sutil Arte de Ligar o F*da-se,Livro,49,250,Um livro de autoajuda com uma abordagem inusitada.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Mark Manson"",
+    ""editora"": ""Intrínseca"",
+    ""ano_publicacao"": ""2016"",
+    ""isbn"": ""978-85-510-0255-0"",
+    ""genero"": ""Autoajuda"",
+    ""numero_paginas"": ""224""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 10:30:00.000000 UTC,true
+41,O Sol é Para Todos,Livro,52,95,Um romance sobre injustiça e racismo.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""Harper Lee"",
+    ""editora"": ""José Olympio"",
+    ""ano_publicacao"": ""1960"",
+    ""isbn"": ""978-85-030-1090-0"",
+    ""genero"": ""Drama"",
+    ""numero_paginas"": ""320""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-21 00:20:00.000000 UTC,true
+15,O Senhor dos Anéis: A Sociedade do Anel,Livro,75,180,O início da aventura na Terra Média.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""J.R.R. Tolkien"",
+    ""editora"": ""Martins Fontes"",
+    ""ano_publicacao"": ""1954"",
+    ""isbn"": ""978-85-336-0314-9"",
+    ""genero"": ""Fantasia"",
+    ""numero_paginas"": ""576""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-20 11:10:00.000000 UTC,true
+37,O Hobbit,Livro,50,200,A jornada de Bilbo Bolseiro.,"{
+  ""detalhes_livro"": {
+    ""autor"": ""J.R.R. Tolkien"",
+    ""editora"": ""Martins Fontes"",
+    ""ano_publicacao"": ""1937"",
+    ""isbn"": ""978-85-336-0318-7"",
+    ""genero"": ""Fantasia"",
+    ""numero_paginas"": ""336""
+  }
+}","{
+  ""detalhes_papelaria"": {
+    ""categoria"": null,
+    ""cor"": null,
+    ""marca"": null,
+    ""material"": null
+  }
+}",2024-05-21 00:00:00.000000 UTC,true

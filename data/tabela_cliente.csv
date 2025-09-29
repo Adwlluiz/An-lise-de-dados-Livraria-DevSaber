@@ -1,0 +1,21 @@
+cliente_id,nome,email,telefone,data_nascimento,genero,cep,numero,complemento,bairro,cidade,estado,data_cadastro,status_cliente
+518,Larissa Paiva,larissa.paiva@email.com,(92) 91111-8888,1989-08-29,Feminino,69002-000,1919,Bloco B,Centro,Manaus,AM,2025-08-28 16:25:00.000000 UTC,true
+508,Gabriela Costa,gabriela.costa@email.com,(92) 91111-0000,1987-03-10,Feminino,69001-001,888,Loja 5,Centro,Manaus,AM,2025-08-28 15:35:00.000000 UTC,true
+516,Juliana Vieira,juliana.vieira@email.com,(71) 93333-6666,1984-11-11,Feminino,40003-000,1717,Ap. 20,Ondina,Salvador,BA,2025-08-28 16:15:00.000000 UTC,false
+506,Mariana Lima,mariana.lima@email.com,(71) 93333-2222,1989-09-01,Feminino,40002-000,666,Ap. 77,Barra,Salvador,BA,2025-08-28 15:25:00.000000 UTC,false
+510,Isabela Nogueira,isabela.nogueira@email.com,(61) 99999-8888,1985-01-01,Feminino,70001-001,1111,Ala C,Asa Sul,Brasília,DF,2025-08-28 15:45:00.000000 UTC,true
+520,Amanda Costa,amanda.costa@email.com,(61) 99999-0000,1986-04-16,Feminino,70002-000,2121,Ala E,Asa Norte,Brasília,DF,2025-08-28 16:35:00.000000 UTC,true
+504,Beatriz Souza,beatriz.souza@email.com,(31) 95555-4444,1983-11-30,Feminino,30002-000,444,Sala 30,Savassi,Belo Horizonte,MG,2025-08-28 15:15:00.000000 UTC,true
+514,Fernanda Castro,fernanda.castro@email.com,(31) 95555-4444,1986-07-09,Feminino,30003-000,1515,Sala 40,Funcionários,Belo Horizonte,MG,2025-08-28 16:05:00.000000 UTC,true
+512,Ana Laura Silva,ana.laura@email.com,(21) 97777-2222,1988-12-15,Feminino,20003-000,1313,Casa 2,Jardim Botânico,Rio de Janeiro,RJ,2025-08-28 15:55:00.000000 UTC,true
+502,Ana Clara Pires,ana.pires@email.com,(21) 97777-6666,1995-02-18,Feminino,20002-000,222,Casa 1,Tijuca,Rio de Janeiro,RJ,2025-08-28 15:05:00.000000 UTC,true
+507,Pedro Henrique,pedro.henrique@email.com,(85) 92222-1111,1994-06-25,Masculino,60002-000,777,Casa 3,Meireles,Fortaleza,CE,2025-08-28 15:30:00.000000 UTC,true
+517,Marcio Andrade,marcio.andrade@email.com,(85) 92222-7777,1992-05-05,Masculino,60003-000,1818,Casa 4,Aldeota,Fortaleza,CE,2025-08-28 16:20:00.000000 UTC,true
+519,Ricardo Silva,ricardo.silva@email.com,(81) 90000-9999,1995-12-01,Masculino,50002-000,2020,Ap. 301,Boa Viagem,Recife,PE,2025-08-28 16:30:00.000000 UTC,false
+509,Rodrigo Souza,rodrigo.souza@email.com,(81) 90000-9999,1996-08-14,Masculino,50001-001,999,Apto 101,Boa Viagem,Recife,PE,2025-08-28 15:40:00.000000 UTC,false
+503,Eduardo Gomes,eduardo.gomes@email.com,(41) 96666-5555,1991-07-21,Masculino,80001-001,333,Loja 2,Centro,Curitiba,PR,2025-08-28 15:10:00.000000 UTC,false
+513,Guilherme Duarte,guilherme.duarte@email.com,(41) 96666-3333,1993-02-28,Masculino,80002-000,1414,Bloco A,Água Verde,Curitiba,PR,2025-08-28 16:00:00.000000 UTC,false
+505,Felipe Martins,felipe.martins@email.com,(51) 94444-3333,1998-04-12,Masculino,90002-000,555,Bloco A,Centro Histórico,Porto Alegre,RS,2025-08-28 15:20:00.000000 UTC,true
+515,Thiago Oliveira,thiago.oliveira@email.com,(51) 94444-5555,1997-03-20,Masculino,90003-000,1616,Loja 1,Moinhos de Vento,Porto Alegre,RS,2025-08-28 16:10:00.000000 UTC,true
+501,Carlos Ferreira,carlos.ferreira@email.com,(11) 98888-7777,1980-10-05,Masculino,01002-000,111,Apto 10,Bela Vista,São Paulo,SP,2025-08-28 15:00:00.000000 UTC,true
+511,Lucas Mendes,lucas.mendes@email.com,(11) 98888-1111,1990-05-02,Masculino,01003-000,1212,Apto 5B,Cerqueira César,São Paulo,SP,2025-08-28 15:50:00.000000 UTC,true
